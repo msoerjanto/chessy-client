@@ -1,0 +1,13 @@
+toDo
+- verify that log structure is the same with the tic tac toe project
+- implement castling
+- implement en passant
+
+
+
+bugs:
+- the covers are not updated in a timely manner
+  - inconsistent results when the path for castling is blocked (i.e. there is some enemy piece intercepting) 
+
+
+* - currently in progress
